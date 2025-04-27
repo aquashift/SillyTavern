@@ -60,7 +60,7 @@
         "slidetoggle": "^4.0.0",
         "tiktoken": "^1.0.20",
         "url-join": "^5.0.0",
-        "vectra": "^0.2.2",
+        "vectra": "^0.10.0",
         "wavefile": "^11.0.0",
         "webpack": "^5.98.0",
         "write-file-atomic": "^5.0.1",
